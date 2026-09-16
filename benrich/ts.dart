@@ -1,4 +1,0 @@
-//CONDITIONAL STATE
-void main () {
-  
-}
