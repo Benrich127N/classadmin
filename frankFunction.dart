@@ -1,5 +1,13 @@
-
+paidHouseRent(){
+ print(" Dan"); 
+ print("amount = 500000 ") ;
+}
  
+ unpaidHouseRent(){
+  print("Samuel");
+  print("Not paid");
+ 
+ }
 getFirstPost()
 {
   print  ("John");
@@ -22,7 +30,7 @@ getSecondPost()
 void main(){
 
     // getSecondPost();
-    getFirstPost();
+    //  
 }
 
 
