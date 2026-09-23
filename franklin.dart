@@ -8,5 +8,5 @@ void Hello(String name){
 
 void main(){
   // Hello('Samuel');
-  Hello('John');
+  Hello('lkj');
 }
