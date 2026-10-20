@@ -1,0 +1,14 @@
+
+// Adding file to a folder //
+
+git add tarielah/assignment1.dart
+git status
+git commit -m "Add assignment1.dart to tarielah folder"
+
+
+
+// TO PUSH 
+
+git branch --show-current
+git push origin main
+git push -u origin YOUR_BRANCH_NAME
